@@ -1,5 +1,6 @@
 return {
-  
+
+    "DrippyHeart.acwire",
     "ACDC.acwire",
     "APA.acwire",
     "Among Us.acwire",
